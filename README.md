@@ -19,20 +19,15 @@ Accede al sitio oficial de **Juego de Plataformas 2D** para seguir los tutoriale
 ### 🔹 Paso 2 — Tutoriales a observar
 Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Unity:
 
-| N.º | Tema del video | Descripción | 🎥 Link del Video | 📄 Link del PDF |
+| N.º | Tema del video | 🎥 Link del Video | 📄 Link del PDF |
 |:--:|:---------------------------|:------------------------------|:------------------:|:----------------:|
-| 01 | **Creación del mundo** | Construcción del entorno inicial y plataformas. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
-| 02 | **Movimiento y salto** | Programación del control del personaje. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
-| 03 | **Recoger frutas** | Implementación de objetos coleccionables. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
-| 04 | **Animaciones de personaje** | Integración de sprites y Animator Controller. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
-| 05 | **Enemigos** | Creación de enemigos con IA básica. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
-| 06 | **Niveles** | Diseño y transición entre niveles. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
-| 07 | **CheckPoint** | Sistema de guardado temporal. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
-| 08 | **Nuevos personajes** | Adición de más jugadores o avatares. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
-| 09 | **Menú Principal** | Creación de interfaz inicial funcional. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
-| 10 | **Controles para móvil** | Adaptación de controles táctiles. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
-| 11 | **Score** | Sistema de puntuación visible. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
-| 12 | **Vidas** | Gestión de vidas y reinicio del juego. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+| 01 | **Tutorial Parte 1** |  [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 02 | **Tutorial Parte 2** | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 03 | **Tutorial Parte 3** |  [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 04 | **Tutorial Parte 4** | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 05 | **Tutorial Parte 5** |  [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 06 | **Tutorial Parte 6** |  [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 07 | **Tutorial Parte 7** | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
 
 ## 👨‍💻 Autor
 **Nombre:** Roberto Alexis Díaz Galindo  
@@ -148,6 +143,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 ---
 
 🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+
 
 
 
