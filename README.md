@@ -30,6 +30,16 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 | 07  | **Tutorial Parte 7**  | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing)                     | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing)                        |
 
 
+### 🧩 Desafíos
+
+| N.º | Descripción     | 🎥 Link del Video / Estado                                                                 |
+|:---:|:----------------|:-------------------------------------------------------------------------------------------|
+| 01  | **Desafío 1**   | Pendiente                                                                          |
+| 02  | **Desafío 2**   | [Ver Video](https://drive.google.com/file/d/12N-biuliIuJjLuaIbftS_ba2rt_DLepM/view?usp=sharing) |
+| 03  | **Desafío 3**   | Pendiente                                                                         |
+| 04  | **Desafío 4**   | Pendiente                                                                                 |
+
+
 ## 👨‍💻 Autor
 **Nombre:** Roberto Alexis Díaz Galindo  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
@@ -144,6 +154,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 ---
 
 🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+
 
 
 
