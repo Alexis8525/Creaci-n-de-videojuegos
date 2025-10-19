@@ -22,7 +22,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 | N.º | Tema del video        | 🎥 Link del Video                                                                                                      | 📄 Link del PDF                                                                                                     |
 |:---:|:----------------------|:----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
 | 01  | **Tutorial Parte 1**  | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                     | [PDF](https://docs.google.com/document/d/13rEsPqh3o0lZUc2DjTS7dxxVZMSsZJx8/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
-| 02  | **Tutorial Parte 2**  | [Ver Video](https://drive.google.com/file/d/1r_oYYIrYQz_i_rNvQr02UDkJ7ZJMj_Ib/view?usp=sharing)                      | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                        |
+| 02  | **Tutorial Parte 2**  | [Ver Video](https://drive.google.com/file/d/1r_oYYIrYQz_i_rNvQr02UDkJ7ZJMj_Ib/view?usp=sharing)                      | [PDF](https://docs.google.com/document/d/17lPNr3OL_8nUPipB608uWumu_9BarRDk/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
 | 03  | **Tutorial Parte 3**  | [Ver Video](https://drive.google.com/file/d/1Fa3uOvUaFuoLqiKUkbMES-bFefp5ESe7/view?usp=sharing)                      | [PDF](https://docs.google.com/document/d/1nM6f7rfhPl22zz89jTR_UA4wB_NVnmzd/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
 | 04  | **Tutorial Parte 4**  | [Ver Video](https://drive.google.com/file/d/1rvUZpJDxPz4tCuQ0QSxPON4XdMgmmqsB/view?usp=sharing)                      | [PDF](https://docs.google.com/document/d/1_-xzuEkzqWLflfxlWQ6t9ShR9q6zz2O_/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
 | 05  | **Tutorial Parte 5**  | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                     | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                        |
@@ -154,6 +154,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 ---
 
 🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+
 
 
 
