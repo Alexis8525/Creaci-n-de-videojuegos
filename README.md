@@ -33,8 +33,8 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 ## 👨‍💻 Autor
 **Nombre:** Roberto Alexis Díaz Galindo  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
-**Institución:** [Nombre de tu universidad o instituto]  
-**Periodo:** [Indica el semestre o fecha de entrega]  
+**Institución:** Universidad tecnologica del norte de guanajuato   
+**Periodo:** Septiembre - Diciembre  
 
 ---
 
@@ -121,11 +121,11 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 
 ---
 
-## 👥 Autores
-**Nombre del estudiante:** Roberto Alexis Díaz Galindo  
+## 👨‍💻 Autor
+**Nombre:** Roberto Alexis Díaz Galindo  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
-**Institución:** [Nombre de tu universidad o instituto]  
-**Periodo:** [Indica el semestre o fecha de entrega]  
+**Institución:** Universidad tecnologica del norte de guanajuato   
+**Periodo:** Septiembre - Diciembre  
 
 ---
 
@@ -144,6 +144,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 ---
 
 🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+
 
 
 
