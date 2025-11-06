@@ -1,22 +1,22 @@
-# 🎮 Actividad 1B: Ejecución de tutoriales — Juego en 2D  
+# Actividad 1B: Ejecución de tutoriales — Juego en 2D  
 **Valor:** 20 puntos  
 **Unidad II — Ingeniería en Desarrollo y Gestión de Software**
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 El estudiante practicará los fundamentos de **videojuegos en 2D con Unity**, aplicando conceptos esenciales de física, animación, interacción y diseño de niveles.
 
 ---
 
-## 🧩 Procedimiento
+## Procedimiento
 
-### 🔹 Paso 1 — Acceso al sitio
+### Paso 1 — Acceso al sitio
 Accede al sitio oficial de **Juego de Plataformas 2D** para seguir los tutoriales de creación de videojuegos 2D paso a paso.
 
 ---
 
-### 🔹 Paso 2 — Tutoriales a observar
+### Paso 2 — Tutoriales a observar
 Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Unity:
 
 | N.º | Tema del video        | 🎥 Link del Video                                                                                                      | 📄 Link del PDF                                                                                                     |
@@ -30,7 +30,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 | 07  | **Tutorial Parte 7**  | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing)                     | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing)                        |
 
 
-### 🧩 Desafíos
+### Desafíos
 
 | N.º | Descripción     | 🎥 Link del Video / Estado                                                                 |
 |:---:|:----------------|:-------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 | 04  | **Desafío 4**   | Pendiente                                                                                 |
 
 
-## 👨‍💻 Autor
+## Autor
 **Nombre:** Roberto Alexis Díaz Galindo  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
 **Institución:** Universidad tecnologica del norte de guanajuato   
@@ -48,14 +48,14 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 
 ---
 
-📚 **Recursos adicionales**
+**Recursos adicionales**
 - [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)  
 - [Documentación oficial de Unity](https://docs.unity3d.com/)  
 - [Descargar Unity Hub](https://unity.com/download)
 
 ---
 
-🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+*“Crea, experimenta y juega con tus propias reglas.”*
 
 
 
@@ -83,40 +83,81 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 
 
 
----
-
-
-# 🎮 Actividad 2: Desarrollo de Videojuego 2D o 3D  
+# Actividad 2: Desarrollo de Videojuego 2D o 3D  
 **Valor total:** 40 puntos (20 Saber + 20 Saber Hacer)
 
 ---
 
-## 🚀 Instrucciones para el desarrollo
+## Proyecto: Calle Segura 
+**Tema:** Educación vial mediante minijuegos interactivos.  
+**Objetivo:** Enseñar las reglas básicas de tránsito de forma divertida, fomentando la seguridad vial en peatones, ciclistas y conductores.  
 
-### 1️⃣ Preparación del entorno
-- Instala **Unity Hub** y crea un nuevo proyecto (2D o 3D).
-- Usa una versión **LTS estable** (recomendada).
-- Configura la escena base con **Main Camera** y **Directional Light**.
-
-### 2️⃣ Diseño del escenario
-- Crea o importa tu entorno (terreno, plataformas, edificios, etc.).
-
-### 3️⃣ Integración de personajes y objetos
-- Importa modelos o sprites.
-- Asigna animaciones (`Idle`, `Walk`, `Run`, `Attack`, etc.).
-- Controla transiciones con el componente **Animator**.
-
-### 4️⃣ Sonido y ambiente
-- Añade música de fondo y efectos (`Audio Source`, `Audio Listener`).
-- Usa clips en formato `.mp3` o `.wav`.
-
-### 5️⃣ Consejos narrativos
-- Estructura una historia con **inicio, conflicto y resolución**.
-- Usa textos, música emocional y transiciones suaves para mejorar la narrativa.
+### Descripción general  
+El videojuego **Calle Segura** busca concientizar sobre la importancia de respetar las normas de tránsito.  
+Cada nivel representa un rol distinto dentro del entorno vial: peatón, ciclista, pasajero, conductor y agente de control.  
+A través de minijuegos, el jugador aprende las reglas correctas y ve las consecuencias de las decisiones incorrectas.  
 
 ---
 
-## 🧾 Rúbrica de Evaluación — Videojuego Terminado (50 pts)
+## Estructura del proyecto  
+
+```
+Assets/
+ ├── Scenes/
+ │   ├── MainMenu.unity
+ │   ├── Nivel1_Peaton.unity
+ │   ├── Nivel2_Semaforo.unity
+ │   ├── Nivel3_Ciclista.unity
+ │   ├── Nivel4_Pasajero.unity
+ │   ├── Nivel5_Control.unity
+ │   └── Nivel6_Final.unity
+ ├── Scripts/
+ ├── Sprites/
+ ├── UI/
+ └── Audio/
+```
+
+---
+
+## Idea de los niveles
+
+| Nivel | Título | Descripción | Objetivo educativo |
+|:--|:--|:--|:--|
+| 1 | Peatón Responsable | Evita autos y cruza la calle solo en paso de cebra. | Enseñar cómo cruzar correctamente la calle. |
+| 2 | Semáforo Inteligente | Ayuda a controlar el flujo del tráfico cambiando luces. | Comprender el significado de las señales. |
+| 3 | Ciclista Seguro | Recolecta cascos y evita peligros. | Promover el uso del casco y respeto al carril bici. |
+| 4 | Pasajero Consciente | Elige transporte seguro y sigue normas dentro del vehículo. | Fomentar el respeto y seguridad del pasajero. |
+| 5 | Control Vial | Detén infractores y aplica multas. | Mostrar la importancia de las leyes de tránsito. |
+| 6 | Final — Ciudad Segura | Combina todo lo aprendido en un escenario libre. | Reforzar todos los conocimientos previos. |
+
+---
+
+## Historia breve  
+El jugador llega a la ciudad de **TránsitoVille**, donde el caos reina en las calles.  
+Su misión es ayudar a restaurar el orden aprendiendo las normas de cada rol ciudadano.  
+A medida que supera niveles, la ciudad se vuelve más segura y ordenada.
+
+---
+
+## Recursos sugeridos  
+
+- **Sprites y fondos:** [itch.io Assets gratuitos](https://itch.io/game-assets/free)  
+- **Música y efectos:** [OpenGameArt.org](https://opengameart.org/) / [Freesound.org](https://freesound.org/)  
+- **Fuentes educativas:** [Google Fonts](https://fonts.google.com/)  
+- **Tutoriales básicos:** [Unity Learn 2D Platformer](https://learn.unity.com/project/2d-platformer-template)
+
+---
+
+## Mecánicas recomendadas  
+- Movimiento básico con flechas o `WASD`.  
+- Detección de colisiones y recolección de objetos.  
+- Sistema de **puntuación** y **vidas**.  
+- Pantalla de **menú principal** y **transición entre niveles**.  
+- Música ambiental y efectos según la acción.  
+
+---
+
+## Rúbrica de Evaluación — Videojuego Terminado (50 pts)
 
 | Criterio | Excelente (6.25 pts) | Bueno (5 pts) | Aceptable (3.75 pts) | Insuficiente (1–2.5 pts) |
 |:--|:--|:--|:--|:--|
@@ -131,29 +172,30 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 **Nombre:** Roberto Alexis Díaz Galindo  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
-**Institución:** Universidad tecnologica del norte de guanajuato   
+**Institución:** Universidad Tecnológica del Norte de Guanajuato  
 **Periodo:** Septiembre - Diciembre  
 
 ---
 
-## 📎 Recursos adicionales
+## Recursos adicionales
 - [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)
 - [Documentación oficial de Unity](https://docs.unity3d.com/)
 - [Descargar Unity Hub](https://unity.com/download)
 
 ---
 
-> 💡 **Consejo:** usa una plantilla de GitHub con secciones visuales (badges, capturas y GIFs).  
+> **Consejo:** usa una plantilla de GitHub con secciones visuales (badges, capturas y GIFs).  
 > Puedes añadir capturas de pantalla de tu juego con:
 > ```markdown
 > ![Gameplay Screenshot](ruta/a/tu/imagen.png)
 > ```
+
 ---
 
-🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+*“Crea, experimenta y juega con tus propias reglas.”*
 
 
 
