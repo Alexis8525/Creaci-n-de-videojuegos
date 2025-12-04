@@ -25,8 +25,8 @@ Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Uni
 | 02  | **Tutorial Parte 2**  | [Ver Video](https://drive.google.com/file/d/1r_oYYIrYQz_i_rNvQr02UDkJ7ZJMj_Ib/view?usp=sharing)                      | [PDF](https://docs.google.com/document/d/17lPNr3OL_8nUPipB608uWumu_9BarRDk/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
 | 03  | **Tutorial Parte 3**  | [Ver Video](https://drive.google.com/file/d/1Fa3uOvUaFuoLqiKUkbMES-bFefp5ESe7/view?usp=sharing)                      | [PDF](https://docs.google.com/document/d/1nM6f7rfhPl22zz89jTR_UA4wB_NVnmzd/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
 | 04  | **Tutorial Parte 4**  | [Ver Video](https://drive.google.com/file/d/1rvUZpJDxPz4tCuQ0QSxPON4XdMgmmqsB/view?usp=sharing)                      | [PDF](https://docs.google.com/document/d/1_-xzuEkzqWLflfxlWQ6t9ShR9q6zz2O_/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
-| 05  | **Tutorial Parte 5**  | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                     | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                        |
-| 06  | **Tutorial Parte 6**  | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                     | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)                        |
+| 05  | **Tutorial Parte 5**  | [Ver Video](https://drive.google.com/file/d/1ixbMZpkTV4QQ3TrieJR9IwDCZypGwBZC/view?usp=drive_link)                     | [PDF](https://docs.google.com/document/d/1DjWQSlpqnDhNzElctRH5hCUHWumivdbI/edit?usp=drive_link&ouid=105524615074979124460&rtpof=true&sd=true)                        |
+| 06  | **Tutorial Parte 6**  | [Ver Video](https://drive.google.com/file/d/1o1UDbQeniO-5S1hW9CJTOtUda1uk0Tox/view?usp=sharing)                     | [PDF](https://docs.google.com/document/d/1CiM_0PDzqPNzHcNymoVt88UbzcChC3pe/edit?usp=sharing&ouid=105524615074979124460&rtpof=true&sd=true)                        |
 
 
 
@@ -196,6 +196,7 @@ A medida que supera niveles, la ciudad se vuelve más segura y ordenada.
 ---
 
 *“Crea, experimenta y juega con tus propias reglas.”*
+
 
 
 
