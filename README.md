@@ -82,7 +82,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ## 🚀 Despliegue
 
 - **Versión Web (Itch.io):**  
-  https://rl435701.itch.io/hroes-de-barrio  
+    
 
 - **Versión APK para Android:**  
   https://drive.google.com/file/d/12N-biuliIuJjLuaIbftS_ba2rt_DLepM/view?usp=drive_link
@@ -92,13 +92,13 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ## 🎥 Videos del Gameplay
 
 - **Nivel 1:**  
-  https://drive.google.com/drive/folders/14BfrizjUbKNVKbYeX909qnrXqEDUzPr0?usp=sharing  
+    
 
 - **Nivel 2:**  
-  https://drive.google.com/drive/folders/121URQqdLU_BmXBVKyOkkKmK0rT1ozPhe?usp=sharing  
+  
 
 - **Nivel 3:**  
-  https://drive.google.com/drive/folders/1I2eDg_DmqDh642-27zUSMe9CEOcgGyVy?usp=sharing  
+ 
 
 ---
 
