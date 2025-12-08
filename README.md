@@ -3,7 +3,7 @@
 
 ---
 
-## 📑 Índice
+## Índice
 1. [Requisitos](#requisitos)  
 2. [Descripción del Proyecto](#descripción-del-proyecto)  
 3. [Tutoriales](#tutoriales)  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🖥️ Requisitos
+## Requisitos
 
 **Hardware**
 - **CPU:** 4 núcleos (mínimo)  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌱 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene el desarrollo del videojuego *Héroes de Barrio*, creado como parte de la materia **Creación de Videojuegos**.  
 El objetivo del proyecto es **concientizar a las personas sobre la contaminación y el cuidado del medio ambiente**, mediante un juego 2D con mecánicas sencillas, niveles temáticos y mensajes ecológicos.
@@ -43,7 +43,7 @@ El proyecto incluye:
 
 ---
 
-## 🎓 Tutoriales
+## Tutoriales
 
 Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
@@ -67,7 +67,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ---
 
-## 🧩 Desafíos
+## Desafíos
 
 - **Desafío 1:** _(Entregado según indicaciones del docente)_  
 - **Desafío 2:**  
@@ -79,7 +79,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ---
 
-## 🚀 Despliegue
+## Despliegue
 
 - **Versión Web (Itch.io):**  
   https://roberto-galindo.itch.io/todo-por-el-barrio
@@ -89,7 +89,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ---
 
-## 🎥 Videos del Gameplay
+## Videos del Gameplay
 
 - **Nivel 1:**  
   https://drive.google.com/file/d/1-SZoULNvOvaBpUPRo8aHW54W2jzob27O/view?usp=sharing 
@@ -101,7 +101,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
   https://drive.google.com/file/d/1Y1yRXnoLC2115HcZaE2ts6mv3_UKJ-m7/view?usp=sharing
 
  - **Nivel 4:**  
-  https://drive.google.com/file/d/1-SZoULNvOvaBpUPRo8aHW54W2jzob27O/view?usp=sharing 
+  https://drive.google.com/file/d/1AKBGCIm7Q1ArTvn1fNMbo3PAOboPn5kX/view?usp=sharing 
 
 - **Nivel 5:**  
   https://drive.google.com/file/d/1DcpONKkm8KsTbxa_xzO1A2M4lmInscfc/view?usp=sharing
@@ -111,8 +111,8 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ---
 
-## 📂 Estructura del Proyecto
-📁 Proyecto-Unity-2D
+## Estructura del Proyecto
+Proyecto-Unity-2D
 ├── Assets/
 │   ├── Animations/
 │   ├── Scripts/
