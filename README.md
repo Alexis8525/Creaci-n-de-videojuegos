@@ -98,20 +98,30 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
   https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
 
 - **Nivel 3:**  
- https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
+  https://drive.google.com/file/d/1Y1yRXnoLC2115HcZaE2ts6mv3_UKJ-m7/view?usp=sharing
+
+ - **Nivel 4:**  
+  https://drive.google.com/file/d/1-SZoULNvOvaBpUPRo8aHW54W2jzob27O/view?usp=sharing 
+
+- **Nivel 5:**  
+  https://drive.google.com/file/d/1DcpONKkm8KsTbxa_xzO1A2M4lmInscfc/view?usp=sharing
+
+- **Nivel 6:**  
+  https://drive.google.com/file/d/1hZ90a3L6qHIVU9CZWpC65bFnVhrsMzYH/view?usp=sharing
 
 ---
 
 ## 📂 Estructura del Proyecto
 📁 Proyecto-Unity-2D
-├─ Assets/
-│ ├─ Animations/
-│ ├─ Scripts/
-│ ├─ Sprites/
-│ ├─ Scenes/
-│ └─ UI/
-├─ ProjectSettings/
-├─ Packages
-└─ README.md
+├── Assets/
+│   ├── Animations/
+│   ├── Scripts/
+│   ├── Sprites/
+│   ├── Scenes/
+│   └── UI/
+├── ProjectSettings/
+├── Packages/
+└── README.md
+
 ---
 
