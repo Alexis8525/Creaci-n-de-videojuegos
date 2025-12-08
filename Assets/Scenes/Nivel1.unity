@@ -17871,7 +17871,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.32157, y: -1.49202, z: -10}
+  m_LocalPosition: {x: -32.460342, y: -1.49202, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -67515,6 +67515,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 235
       objectReference: {fileID: 0}
+    - target: {fileID: 717320782633260035, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 588233102066688692, guid: 78ee76b96f559c71fb3edeb44f2ff634, type: 3}
     - target: {fileID: 2134743369598548671, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 155
@@ -67527,10 +67531,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -96
       objectReference: {fileID: 0}
+    - target: {fileID: 2192195044348862237, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6249838950478982285, guid: 5f83f46b646092012976271e346ac146, type: 3}
     - target: {fileID: 2217803552408543656, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6068752714494607558, guid: 0bf0c51d75745b383b4c22ae5f83d45b, type: 3}
+    - target: {fileID: 2921061893552757926, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4781373940957465942, guid: 8a5534f5d82abdf459ffe062049a41fc, type: 3}
     - target: {fileID: 3313169589425114138, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -67591,6 +67603,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 263
       objectReference: {fileID: 0}
+    - target: {fileID: 7340801775406911070, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1556925681738478041, guid: cb47f8bd5a762b785a7e62a0cbb6f3d3, type: 3}
     - target: {fileID: 7553838232313286875, guid: 6b1b8efdd733ced44ba1bb35d22d9d20, type: 3}
       propertyPath: m_Pivot.x
       value: 0
