@@ -92,13 +92,13 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ## 🎥 Videos del Gameplay
 
 - **Nivel 1:**  
-    https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
+  https://drive.google.com/file/d/1-SZoULNvOvaBpUPRo8aHW54W2jzob27O/view?usp=sharing 
 
 - **Nivel 2:**  
-  
+  https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
 
 - **Nivel 3:**  
- 
+ https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
 
 ---
 
