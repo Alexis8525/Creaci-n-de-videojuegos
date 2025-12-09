@@ -1,4 +1,4 @@
-# 🎮 Videojuego 2D – *Héroes de Barrio*
+# 🎮 Videojuego 2D – *Todo por el Barrio*
 **Proyecto de la materia de Creación de Videojuegos**
 
 ---
