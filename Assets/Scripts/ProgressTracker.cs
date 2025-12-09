@@ -7,7 +7,6 @@ public class ProgressTracker : MonoBehaviour
 
     private void Awake()
     {
-        // Implementar patrón Singleton
         if (instance == null)
         {
             instance = this;
@@ -31,19 +30,19 @@ public class ProgressTracker : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Guardar progreso cuando se cargan ciertas escenas
-        string currentScene = scene.name;
+        string sceneName = scene.name;
 
-        if (currentScene == "MenuANivel2" || currentScene == "MenuANivel3" ||
-            currentScene == "MenuFinal" || currentScene == "Nivel2" ||
-            currentScene == "Nivel3")
+        bool esNivel = sceneName.StartsWith("Nivel");              // Nivel1, Nivel2, Nivel3...
+        bool esMenuNivel = sceneName.StartsWith("MenuANivel");    // MenuANivel2, MenuANivel3...
+        bool esMenuFinal = sceneName == "MenuFinal";
+
+        if (esNivel || esMenuNivel || esMenuFinal)
         {
-            SaveSystem.SaveProgress(currentScene);
-            Debug.Log("💾 Progreso guardado automáticamente en: " + currentScene);
+            SaveSystem.SaveProgress(sceneName);
+            Debug.Log("💾 Progreso guardado automáticamente en: " + sceneName);
         }
     }
 
-    // Método público para forzar guardado manual
     public void SaveCurrentProgress()
     {
         SaveSystem.SaveProgress(SceneManager.GetActiveScene().name);
