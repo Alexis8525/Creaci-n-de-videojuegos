@@ -1,4 +1,4 @@
-# 🎮 Videojuego 2D – *Héroes de Barrio*
+# 🎮 Videojuego 2D – *Todo por el Barrio*
 **Proyecto de la materia de Creación de Videojuegos**
 
 ---
@@ -69,14 +69,10 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ## Desafíos
 
-- **Desafío 1:** _(Entregado según indicaciones del docente)_  
+- **Desafío 1:**
 - **Desafío 2:**  
-  https://drive.google.com/drive/folders/1BO0PJ33Je8DjzWncjXY6wYPagVWAJ7Yw?usp=sharing  
 - **Desafío 3:**  
-  Revisado en clase  
 - **Desafío 4:**  
-  Pendiente
-
 ---
 
 ## Despliegue
@@ -92,7 +88,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ## Videos del Gameplay
 
 - **Nivel 1:**  
-  https://drive.google.com/file/d/1-SZoULNvOvaBpUPRo8aHW54W2jzob27O/view?usp=sharing 
+  https://drive.google.com/file/d/1taDLf_rgtBHexcT5MMvK5dEkj3hKIQNv/view?usp=sharing 
 
 - **Nivel 2:**  
   https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
