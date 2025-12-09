@@ -69,14 +69,10 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ## Desafíos
 
-- **Desafío 1:** _(Entregado según indicaciones del docente)_  
+- **Desafío 1:**
 - **Desafío 2:**  
-  https://drive.google.com/drive/folders/1BO0PJ33Je8DjzWncjXY6wYPagVWAJ7Yw?usp=sharing  
 - **Desafío 3:**  
-  Revisado en clase  
 - **Desafío 4:**  
-  Pendiente
-
 ---
 
 ## Despliegue
