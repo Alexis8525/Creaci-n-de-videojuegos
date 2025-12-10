@@ -70,8 +70,10 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ## Desafíos
 
 - **Desafío 1:**
-- **Desafío 2:**  
-- **Desafío 3:**  
+- **Desafío 2:(Movimento Personaje)**
+- https://drive.google.com/drive/folders/1F8do20OAZU5hNQ7cyrQOikd6_lTKPy3x?usp=sharing 
+- **Desafío 3:(Menu Basico)**
+- https://drive.google.com/drive/folders/1mJiiMw5Q8gmqrUbucs4Ns8iMv1UsFDtT?usp=sharing
 - **Desafío 4:**  
 ---
 
