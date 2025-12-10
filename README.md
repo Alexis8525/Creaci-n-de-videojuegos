@@ -76,6 +76,8 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ---
 
 ## Despliegue
+- **Versión Web (Itch.io): Gente real jugando**  
+  https://drive.google.com/file/d/1doO2rSubgynr-C3ejuKfUbowfMKJyr57/view?usp=sharing
 
 - **Versión Web (Itch.io):**  
   https://roberto-galindo.itch.io/todo-por-el-barrio
