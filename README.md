@@ -90,22 +90,22 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 ## Videos del Gameplay
 
 - **Nivel 1:**  
-  https://drive.google.com/file/d/1taDLf_rgtBHexcT5MMvK5dEkj3hKIQNv/view?usp=sharing 
+  https://drive.google.com/file/d/1nj-Jrmo-XvyFwymSFwL7poNULC91qofH/view?usp=sharing 
 
 - **Nivel 2:**  
-  https://drive.google.com/file/d/18Z8masrNvWoCPmInAhLs9AjzzB7CDFbp/view?usp=sharing
+  https://drive.google.com/file/d/1QjnZu2-6nQ5jy9MhAcFNOnxm4p7iY_Q8/view?usp=sharing
 
 - **Nivel 3:**  
-  https://drive.google.com/file/d/1Y1yRXnoLC2115HcZaE2ts6mv3_UKJ-m7/view?usp=sharing
+  https://drive.google.com/file/d/1FtCemW589cKRhFvrVkhAPhI7VbV3MmwY/view?usp=sharing
 
  - **Nivel 4:**  
-  https://drive.google.com/file/d/1AKBGCIm7Q1ArTvn1fNMbo3PAOboPn5kX/view?usp=sharing 
+  https://drive.google.com/file/d/1RNoeGTOc_sgYYmbD5HXJCTIOi82p3Y8J/view?usp=sharing 
 
 - **Nivel 5:**  
-  https://drive.google.com/file/d/1DcpONKkm8KsTbxa_xzO1A2M4lmInscfc/view?usp=sharing
+  https://drive.google.com/file/d/1_f46wIAFjGKzPPZSE06zHRlK9L3-Z3n_/view?usp=sharing
 
 - **Nivel 6:**  
-  https://drive.google.com/file/d/1hZ90a3L6qHIVU9CZWpC65bFnVhrsMzYH/view?usp=sharing
+  https://drive.google.com/file/d/1eo1ypZH1ww7zCwmsn3BXocWyiR-uo11y/view?usp=sharing
 
 ---
 
