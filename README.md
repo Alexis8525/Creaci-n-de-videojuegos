@@ -85,7 +85,7 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
   https://roberto-galindo.itch.io/todo-por-el-barrio
 
 - **Versión APK para Android:**  
-  https://drive.google.com/file/d/12N-biuliIuJjLuaIbftS_ba2rt_DLepM/view?usp=drive_link
+  https://drive.google.com/drive/folders/19EHs-OH0382I81RFJZeslFiobKqzYftt?usp=sharing
 
 ---
 
