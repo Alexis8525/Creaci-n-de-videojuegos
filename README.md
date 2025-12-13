@@ -69,12 +69,15 @@ Estos tutoriales documentan paso a paso el desarrollo del videojuego:
 
 ## Desafíos
 
-- **Desafío 1:**
-- **Desafío 2:(Movimento Personaje)**
-- https://drive.google.com/drive/folders/1F8do20OAZU5hNQ7cyrQOikd6_lTKPy3x?usp=sharing 
+- **Desafío 1:(Movimento Personaje)**
+  - https://drive.google.com/drive/folders/1F8do20OAZU5hNQ7cyrQOikd6_lTKPy3x?usp=sharing 
+- **Desafío 2:(Barra de vida)**
+  -  https://drive.google.com/drive/folders/18zJJ6ffj5L987UGFIGw6RZfxSoBkc5Qf?usp=sharing
 - **Desafío 3:(Menu Basico)**
-- https://drive.google.com/drive/folders/1mJiiMw5Q8gmqrUbucs4Ns8iMv1UsFDtT?usp=sharing
-- **Desafío 4:**  
+  - https://drive.google.com/drive/folders/1mJiiMw5Q8gmqrUbucs4Ns8iMv1UsFDtT?usp=sharing
+- **Desafío 4:(Multiplayer)**
+- **Desafío 4:(Seleccion de jugadores)**
+ 
 ---
 
 ## Despliegue
